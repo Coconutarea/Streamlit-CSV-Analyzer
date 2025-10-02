@@ -11,7 +11,7 @@ It allows users to:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Streamlit-CSV-Explorer.git
+   git clone https://github.com/Coconutarea/Streamlit-CSV-Explorer/edit/main/README.md
    ```
 2. Install the dependencies:
    ```bash
