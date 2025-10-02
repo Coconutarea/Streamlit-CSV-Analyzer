@@ -21,7 +21,7 @@ It allows users to:
 ## Usage
 Run the app with:
 ```bash
-streamlit run app.py
+streamlit run CSV-Explorer.py
 ```
 
 ## Project Structure
