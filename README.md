@@ -1,4 +1,4 @@
-# Streamlit-CSV-Explorer
+# 📊Streamlit-CSV-Explorer
 
 A Streamlit web application for uploading and analyzing CSV files.  
 It allows users to:
